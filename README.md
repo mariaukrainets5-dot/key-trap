@@ -38,3 +38,7 @@ claude plugin install key-trap --marketplace mariaukrainets5-dot/key-trap
 ## Выключить
 
 `/plugin` → Installed → key-trap → Disable.
+
+## Лицензия
+
+MIT — см. [LICENSE](LICENSE).

@@ -1,0 +1,11 @@
+{
+  "name": "key-trap",
+  "owner": { "name": "mariaukrainets5-dot" },
+  "plugins": [
+    {
+      "name": "key-trap",
+      "source": "./",
+      "description": "Ловушка ключей: ключ из сообщения сохраняется в .env проекта, в чат уходит только имя переменной"
+    }
+  ]
+}
